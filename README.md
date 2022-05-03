@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pradumn Kumar
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on...
+- 👀 I’m interested in Software and web development.
+- 🌱 I’m currently learning C++ node.js react.js 
+- 💞️ I’m looking to collaborate on web development project.
 - 📫 You can reach me on romulansrise@gmail.com
 
 <!---
