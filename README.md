@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software and web development.
 - 🌱 I’m currently learning C++ node.js react.js 
 - 💞️ I’m looking to collaborate on web development project.
-- 📫 You can reach me on romulansrise@gmail.com
+- 📫 You can reach me on pradumnkumar@proton.me
 
 <!---
 slashtab/slashtab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
