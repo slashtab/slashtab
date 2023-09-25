@@ -1,4 +1,9 @@
-### Hi there 👋
+- Hi! I'm slashtab
+- I'm learning...
+- I'm interested in web and App development
+- I like obsessing over Privacy, Security and development around it
+- Let's cook something together
+- you can reach me on slashtab@tutanota.com
 
 <!--
 **slashtab/slashtab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
