@@ -1,8 +1,3 @@
-- Hi! I'm slashtab
-- I'm learning...
-- I'm interested in web and App development
-- I like obsessing over Privacy, Security and development around it
-- Let's cook something together
 - you can reach me on slashtab@tutanota.com
 
 <!--
